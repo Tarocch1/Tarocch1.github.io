@@ -7,6 +7,6 @@
     "build": "sitegen build site"
   },
   "devDependencies": {
-    "@tarocch1/sitegen": "^0.1.4"
+    "@tarocch1/sitegen": "^0.2.0"
   }
 }
