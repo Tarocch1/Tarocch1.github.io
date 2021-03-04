@@ -13,6 +13,8 @@ jobs:
       - id: checkout
         name: Checkout
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
       - id: checkout_gh-pages
         name: Checkout
         uses: actions/checkout@v2
